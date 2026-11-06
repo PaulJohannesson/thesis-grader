@@ -1,5 +1,6 @@
 # Preciseringar
 ## G1 Disposition, layout och språk
+För godkänt krävs att följande uppfylls:
 ### Disposition och sammanhang
 
 - Läsaren kan med hjälp av rubrikerna hitta uppsatsens centrala delar, exempelvis syfte, metod, resultat och diskussion.
@@ -18,7 +19,7 @@
 - Meningarna är begripliga och syftningarna tydliga. Det framgår exempelvis vad ord som ”detta”, ”den” och ”dessa” syftar på.
 - Ord och facktermer används med rätt betydelse. Centrala begrepp benämns konsekvent, och ämnesspecifika förkortningar förklaras vid första användningen.
 - Uppsatsen använder ett sakligt och precist språk. Talspråkliga uttryck, exempelvis ”grejen är” och ”jättebra”, undviks.
-- SUppsatsen är skriven på ett och samma språk. Citat, källtitlar och vedertagna facktermer får återges på andra språk.
+- Uppsatsen är skriven på ett och samma språk. Citat, källtitlar och vedertagna facktermer får återges på andra språk.
 
 ## G2 Källhänvisningar
 För godkänt krävs att följande uppfylls:
