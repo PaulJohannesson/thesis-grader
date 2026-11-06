@@ -1,4 +1,4 @@
-# Preciseringar
+# Grundkrav – preciseringar
 ## G1 Disposition, layout och språk
 För godkänt krävs att följande uppfylls:
 ### Disposition och sammanhang
