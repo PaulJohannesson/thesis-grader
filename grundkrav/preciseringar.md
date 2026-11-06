@@ -22,6 +22,14 @@ För godkänt krävs att följande uppfylls:
 - Uppsatsen är skriven på ett och samma språk. Citat, källtitlar och vedertagna facktermer får återges på andra språk.
 
 ## G2 Källhänvisningar
+Pröva noga följande regler:
+- Om det finns en källa som hänvisas till i uppsatsen och den inte finns i referenslistan, så är kravet inte uppfyllt.
+- Om det finns en post i referenslistan som inte motsvaras av en hänvisning i uppsatsen, så är kravet inte uppfyllt.
+- Om det finns poster som följer olika referensstilar, så är kravet inte uppfyllt.
+- Om det finns en post i referenslistan som inte innehåller de uppgifter som referensstilen kräver, så är kravet inte uppfyllt.
+- Om det finns en post i referenslistan som inte stämmer överens med källan, så är kravet inte uppfyllt.
+
+## G3 Tjosan
 För godkänt krävs att följande uppfylls:
 - Varje källa som hänvisas till i uppsatsen finns i referenslistan.
 - Varje post i referenslistan motsvaras av minst en hänvisning i uppsatsen.
